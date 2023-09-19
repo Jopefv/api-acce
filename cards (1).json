@@ -919,7 +919,7 @@
       "Number": "005",
       "Type": "Realm",
       "Description": "The Storm track loops and twists around seething thunderheads, forcing racers to slalom through heavy rains and spikes of lightning to escape.",
-      "url2": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/85.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/85.jpg"
     },
     {
       "id": 85,
@@ -1205,7 +1205,7 @@
       "Number": "026",
       "Type": "Realm",
       "Description": "Speeding through race tubes formed of 'solid water', drivers on the Ocean track must contend with hungry aquatic hazards while negotiating an ancient coral reef.",
-      "url2": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/90.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/90.jpg"
     },
     {
       "id": 124,
@@ -1470,7 +1470,7 @@
       "id": 161,
       "Name": "Racing Slicks",
       "Type": "MOD",
-      "Effects": "Racing Slicks are the best high traction tires on the market, customized by adding "pincer" treads that grip the road with hundreds of tiny claws - it's just like driving on Velcro.",
+      "Effects": "Racing Slicks are the best high traction tires on the market, customized by adding 'pincer' treads that grip the road with hundreds of tiny claws - it's just like driving on Velcro.",
       "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/161.jpg"
     },
     {
